@@ -1,0 +1,16 @@
+Reference,Qty,Value,Description
+U1,1,TL072,Dual JFET-input op-amp (DIP-8)
+R1 R2 R3,3,100k,Resistor (bias divider / input reference)
+R4 R5 R6 R7,4,10k,Resistor
+R8 R9 R10,3,22k,Resistor
+R11,1,47k,Resistor (output reference)
+RV1,1,100k,Potentiometer - treble
+RV2,1,100k,Potentiometer - bass
+C1,1,1uF 35V,Electrolytic (bias filter)
+C2,1,2.2uF 25V,Electrolytic (input coupling)
+C3,1,100nF,Ceramic (supply decoupling)
+C4,1,100uF 35V,Electrolytic (supply bulk)
+C5,1,1nF,Film/ceramic (treble network)
+C6,1,47nF,Film (bass network)
+C7,1,10uF 25V,Electrolytic (output coupling)
+IN OUT PWR,3,Conn_01x02,2-pin header
