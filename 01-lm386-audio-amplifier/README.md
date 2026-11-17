@@ -3,6 +3,10 @@
 A compact single-sided audio power amplifier built around the **LM386**. It takes a line-level signal (phone, MP3 player, signal generator), adds a volume control, and drives a small 8 Ω speaker. The board was hand-fabricated and tested during a university electronics course.
 
 <p align="center">
+  <img src="images/schematic.png" width="90%" alt="Schematic">
+</p>
+
+<p align="center">
   <img src="images/pcb-layout.png" width="48%" alt="PCB layout (bottom copper)">
   &nbsp;
   <img src="images/3d-render.png" width="45%" alt="3D render">
